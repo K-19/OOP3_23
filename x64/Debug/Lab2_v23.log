@@ -1,0 +1,19 @@
+﻿D:\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(459,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Lab2_v23.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Gym.cpp
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\MyExceptions.h(35,37): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\RunningTrack.h(10,46): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Load.h(10,51): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Load.h(11,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Load.h(13,41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\WeightTrainer.h(9,59): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.h(16,36): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.h(17,47): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.cpp(21,1): warning C5043: "Gym::controlMenu": спецификация исключения не соответствует предыдущему объявлению
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.h(16): message : см. объявление "Gym::controlMenu"
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.cpp(63,1): warning C5043: "Gym::formationMenu": спецификация исключения не соответствует предыдущему объявлению
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.h(17): message : см. объявление "Gym::formationMenu"
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.cpp(211,44): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.cpp(415,23): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.cpp(416,24): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\Gym.cpp(417,23): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  Lab2_v23.vcxproj -> D:\BSUIR ИЭФ 3курс\ООП\Lab3_ СПОРТзал\x64\Debug\Lab3_СПОРТзал.exe
